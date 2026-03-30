@@ -5,6 +5,10 @@ A modular, command-line application developed in Python that automates the manag
 
 The application follows a modular architecture where each feature lives in its own independent file. The main.py file acts as the entry point and orchestrator: it imports all feature functions, maintains the shared inventory state (a list of dictionaries), and routes user input from the main menu to the correct module.
 
+## 🔁 Flow Diagram
+
+diagrama.png
+
 ## 🚀 How to Run the Program
 1. Clone or download the repository so all .py files are in the same folder.
 2. Open a terminal in that folder and run python main.py.
